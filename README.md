@@ -66,3 +66,55 @@ The main objectives of this analysis were to:
 | Mobile Conversion Rate | **3.09%** |
 
 ---
+---
+
+## 🔍 SQL Analysis
+
+The SQL analysis was structured into nine analytical sections covering the complete e-commerce business journey.
+
+### Analysis Areas
+
+| Section | Analysis |
+|---|---|
+| 01 | Time Horizon & Business Totals |
+| 02 | Overall Website Conversion Rate |
+| 03 | Traffic Channel Breakdown |
+| 04 | Monthly Orders, Profit & Revenue Trend |
+| 05 | Product Expansion & Cross-Selling |
+| 06 | Refund Analysis |
+| 07 | Website Conversion Funnel |
+| 08 | Billing Page A/B Test |
+| 09 | Device Conversion Rates |
+
+### Key SQL Findings
+
+- **472,871** website sessions generated **32,313 orders**.
+- Overall website conversion rate was **6.83%**.
+- Desktop users converted at **8.50%**, compared with **3.09%** for mobile users.
+- The largest funnel drop occurred between the **Products page and Cart**, where conversion was **36.35%**.
+- Cart → Shipping conversion was **67.91%**.
+- Shipping → Billing conversion was **80.73%**.
+- Billing → Receipt conversion was **62.07%**.
+- Cross-selling generated **5,757 cross-sold orders** across the analyzed products.
+- Product-level refund rates varied significantly, with **The Original Mr. Fuzzy** having the highest refund rate at **5.40%**.
+
+### SQL Techniques Used
+
+The project demonstrates:
+
+- `JOIN` and `LEFT JOIN`
+- `GROUP BY` and `ORDER BY`
+- `COUNT(DISTINCT)`
+- `CASE WHEN`
+- `COALESCE`
+- Aggregate functions
+- Date functions
+- Conditional aggregation
+- Common Table Expressions (CTEs)
+- Session-level funnel analysis
+- Business KPI calculations
+
+📄 **Complete SQL analysis:**  
+`SQL/ecommerce_analysis.sql`
+
+---
