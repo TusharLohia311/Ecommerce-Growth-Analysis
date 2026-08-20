@@ -256,4 +256,26 @@ Based on the analysis, the key priorities are:
 | 🟡 Medium | Investigate high-refund products | Reduce revenue leakage and improve customer experience |
 
 ---
+---
 
+## 📁 Project Structure
+
+```text
+Ecommerce-Growth-Analysis/
+│
+├── SQL/
+│   └── ecommerce_analysis.sql
+│
+├── Screenshots/
+│   ├── 01: executive_audit.png
+│   ├── 02: conversion_funnel.png
+│   └── 03: product_quality.png
+│
+└── README.md
+---
+---
+## 👤 Author
+
+**Tushar Lohia**
+
+Aspiring Data Analyst | SQL | Power BI | Excel | Business Analytics
