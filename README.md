@@ -115,7 +115,7 @@ The project demonstrates:
 - Business KPI calculations
 
 📄 **Complete SQL analysis:**  
-`SQL/ecommerce_analysis.sql`
+[View SQL Analysis](https://github.com/TusharLohia311/Ecommerce-Growth-Analysis/blob/main/SQL/Ecommerce-SQL_Analysis.sql)
 
 ---
 ---
@@ -272,7 +272,15 @@ Ecommerce-Growth-Analysis/
 │   └── 03: product_quality.png
 │
 └── README.md
+```
 ---
+## 📥 Power BI Dashboard File
+
+The complete interactive Power BI report is available here:
+
+[Download Power BI Dashboard](https://1drv.ms/u/c/ab3671b5aadbe0ee/IQDrKfyaADFnSoTI3K1YY6XSAb_Eguh7s01JcfE8jzCwpaU?e=xij7Z3)
+
+> Note: The `.pbix` file is hosted externally because the file size exceeds GitHub's browser upload limit.
 ---
 ## 👤 Author
 
